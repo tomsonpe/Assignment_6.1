@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\classes-24ff3ceee1164d3d87c6201c7b43821400de399a.jar" />
+    </item>
+    <item
+        jar="C:\Apps\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-8641713489e1768340ac58886cdc48cc9de40ab5.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\okio-1.6.0-ce2752029001565c10fb3f7b02e2fb6cc5a56e6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\gson-2.6.2-13073bf6826f8c2d29b702c9786828cf689fe331.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\classes-6a6d07a7cb5a90f3cd7a3a3cf775834c664f4cb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-40d7ac0f7a54209a02d0a130c69a859b127bb816.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.2.0-0212f8217fe47cd748c4228b7b5b3c7d309fa889.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\.gradle\caches\modules-2\files-2.1\org.mindrot\jbcrypt\0.3m\fe2d9c5f23767d681a7e38fc8986b812400ec583\jbcrypt-0.3m.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe2d9c5f23767d681a7e38fc8986b812400ec583">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\jbcrypt-0.3m-2c20a66322e3365c4b13f2088a301fdff4471c0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\classes-ce04f1d80b262bebe456510bf3a40906b7ea5d91.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.4\b31526a230871fbe285fbcbe2813f9c0839ae9b0\httpcore-4.4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\httpcore-4.4.4-7a8a801b28b3074ba3e52f4e049d4b27adc87978.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\TEMP.ADS.058\Desktop\Assignment_7\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-e723974837e2ab8217b003337a19febb8dd01f3f.jar" />
+    </item>
+
+</items>
